@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font: normal 15px arial;
+    background: lightblue;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;  
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.603);
+}
+#ano{
+    border: 0.5px solid rgba(128, 128, 128, 0.575);
+    margin-bottom: 3px;
+}
+#foto{
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
